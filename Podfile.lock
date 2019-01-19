@@ -1,0 +1,101 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Bartinter (0.0.4)
+  - DZNEmptyDataSet (1.8.1)
+  - ESTabBarController-swift (2.6.4)
+  - Hero (1.4.0)
+  - Instructions (1.2.2)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Nuke (7.5.2)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SkeletonView (1.4.1)
+  - SnapKit (4.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+  - Valet (3.2.2)
+  - WhatsNew (0.4.4)
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Bartinter
+  - DZNEmptyDataSet
+  - ESTabBarController-swift
+  - Hero
+  - Instructions (~> 1.2.2)
+  - IQKeyboardManagerSwift
+  - Nuke (~> 7.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SkeletonView
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwifterSwift
+  - Valet
+  - WhatsNew
+  - Zip (~> 1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Bartinter
+    - DZNEmptyDataSet
+    - ESTabBarController-swift
+    - Hero
+    - Instructions
+    - IQKeyboardManagerSwift
+    - Nuke
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SkeletonView
+    - SnapKit
+    - SVProgressHUD
+    - SwifterSwift
+    - Valet
+    - WhatsNew
+    - Zip
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Bartinter: cfc2ebf2fb8560a7d878dcbdc7d3c667c79090c9
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  ESTabBarController-swift: 58cca4ab7de980657d99a02181c1ff310983e975
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  Instructions: baff1b8ac41e195556c2b3453be1fcdd92e18612
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SkeletonView: 60d6ce7edb0cb4c7758db33c74add50392b3c475
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+  Valet: 0babf5737029004185a7a009c1135f0c073011d1
+  WhatsNew: ebb4e2a85a0975c7c2705087c0c67939451f8b49
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+
+PODFILE CHECKSUM: 32816e37e5d72baffde84b84bf057b12e6725cac
+
+COCOAPODS: 1.5.3
